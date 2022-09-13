@@ -1,1 +1,1 @@
-OneToOneField, ForeignKey, ManyToManyField
+Class based views, pagination
